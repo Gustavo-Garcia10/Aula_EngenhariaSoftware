@@ -23,6 +23,7 @@ Cada pasta `aulaXX/` tem um `README.md` com o resumo e um link para o material o
 | Aula | Assunto | Tópicos | Formato |
 |---|---|---|---|
 | [01](aula01) | Software e Engenharia de Software | o que é software, campos de aplicação, software legado, camadas e atividades do processo, princípios gerais | canvas |
+| [02](aula02) | Modelos de processo | modelo genérico e fluxos de processo, cascata, V, incremental, prototipação, espiral, concorrente, modelos especializados, Processo Unificado | canvas |
 
 ## Como ver os diagramas
 
