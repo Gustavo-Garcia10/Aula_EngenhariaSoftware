@@ -25,6 +25,7 @@ Cada pasta `aulaXX/` tem um `README.md` com o resumo e um link para o material o
 | [01](aula01) | Software e Engenharia de Software | o que é software, campos de aplicação, software legado, camadas e atividades do processo, princípios gerais | canvas |
 | [02](aula02) | Modelos de processo | modelo genérico e fluxos de processo, cascata, V, incremental, prototipação, espiral, concorrente, modelos especializados, Processo Unificado | canvas |
 | [03](aula03) | Desenvolvimento ágil | agilidade e custo das mudanças, princípios ágeis, XP, Scrum, DSDM, FDD, DevOps, Kanban | canvas |
+| [04](aula04) | Rational Unified Process (RUP) | fases (concepção, elaboração, construção, transição), iteração, visão estática × dinâmica, boas práticas | canvas |
 
 ## Como ver os diagramas
 
