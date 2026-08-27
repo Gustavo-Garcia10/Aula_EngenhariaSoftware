@@ -26,6 +26,7 @@ Cada pasta `aulaXX/` tem um `README.md` com o resumo e um link para o material o
 | [02](aula02) | Modelos de processo | modelo genérico e fluxos de processo, cascata, V, incremental, prototipação, espiral, concorrente, modelos especializados, Processo Unificado | canvas |
 | [03](aula03) | Desenvolvimento ágil | agilidade e custo das mudanças, princípios ágeis, XP, Scrum, DSDM, FDD, DevOps, Kanban | canvas |
 | [04](aula04) | Rational Unified Process (RUP) | fases (concepção, elaboração, construção, transição), iteração, visão estática × dinâmica, boas práticas | canvas |
+| [05](aula05) | Paradigmas de programação | imperativo, declarativo, funcional, lógico, orientado a objetos, orientado a eventos | canvas |
 
 ## Como ver os diagramas
 
