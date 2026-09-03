@@ -27,6 +27,7 @@ Cada pasta `aulaXX/` tem um `README.md` com o resumo e um link para o material o
 | [03](aula03) | Desenvolvimento ágil | agilidade e custo das mudanças, princípios ágeis, XP, Scrum, DSDM, FDD, DevOps, Kanban | canvas |
 | [04](aula04) | Rational Unified Process (RUP) | fases (concepção, elaboração, construção, transição), iteração, visão estática × dinâmica, boas práticas | canvas |
 | [05](aula05) | Paradigmas de programação | imperativo, declarativo, funcional, lógico, orientado a objetos, orientado a eventos | canvas |
+| [06](aula06) | Visão geral: modelagem, OO e UML | modelos, classe e objeto, encapsulamento, polimorfismo, herança, composição, visões e diagramas da UML | canvas |
 
 ## Como ver os diagramas
 
