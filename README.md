@@ -29,6 +29,7 @@ Cada pasta `aulaXX/` tem um `README.md` com o resumo e um link para o material o
 | [05](aula05) | Paradigmas de programação | imperativo, declarativo, funcional, lógico, orientado a objetos, orientado a eventos | canvas |
 | [06](aula06) | Visão geral: modelagem, OO e UML | modelos, classe e objeto, encapsulamento, polimorfismo, herança, composição, visões e diagramas da UML | canvas |
 | [07](aula07) | Engenharia de requisitos | stakeholders, domínio de negócio, levantamento, requisitos funcionais × não funcionais, técnicas de elicitação | exercícios |
+| [08](aula08) | Diagrama de atividades e máquina de estado | ações, decisão e merge, fork e join, partições; estados, transições, entry/do/exit, estado composto, histórico | exercícios |
 
 ## Como ver os diagramas
 
