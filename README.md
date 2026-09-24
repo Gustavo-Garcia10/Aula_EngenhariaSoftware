@@ -30,6 +30,7 @@ Cada pasta `aulaXX/` tem um `README.md` com o resumo e um link para o material o
 | [06](aula06) | Visão geral: modelagem, OO e UML | modelos, classe e objeto, encapsulamento, polimorfismo, herança, composição, visões e diagramas da UML | canvas |
 | [07](aula07) | Engenharia de requisitos | stakeholders, domínio de negócio, levantamento, requisitos funcionais × não funcionais, técnicas de elicitação | exercícios |
 | [08](aula08) | Diagrama de atividades e máquina de estado | ações, decisão e merge, fork e join, partições; estados, transições, entry/do/exit, estado composto, histórico | exercícios |
+| [09](aula09) | Modelo de caso de uso | atores, cenários, inclusão, extensão, generalização, especificação de casos de uso | exercícios |
 
 ## Como ver os diagramas
 
