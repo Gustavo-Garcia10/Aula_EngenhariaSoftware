@@ -34,6 +34,7 @@ Cada pasta `aulaXX/` tem um `README.md` com o resumo e um link para o material o
 | [10](aula10) | Diagrama de classes | classe, atributos, métodos, visibilidade | exercícios |
 | [11](aula11) | Diagrama de classes (parte 2) | associações, multiplicidade, classe associativa, agregação e composição, generalização | exercícios |
 | [12](aula12) | Modelo de domínio | domínio de negócio, conceitos e associações | exercícios |
+| [13](aula13) | Diagrama de sequência | o material desta aula não foi disponibilizado | — |
 
 ## Como ver os diagramas
 
